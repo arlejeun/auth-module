@@ -1,6 +1,6 @@
 {
   "name": "@arlejeun/auth",
-  "version": "1.0",
+  "version": "5.0",
   "description": "Authentication module for Genesys using Nuxt.js -- copied from @muxtjs/auth",
   "license": "MIT",
   "main": "lib/module/index.js",
