@@ -1,21 +1,8 @@
 {
-  "name": "@nuxtjs/auth",
-  "version": "4.9.0",
-  "description": "Authentication module for Nuxt.js",
+  "name": "@arlejeun/auth",
+  "version": "1.0",
+  "description": "Authentication module for Genesys using Nuxt.js -- copied from @muxtjs/auth",
   "license": "MIT",
-  "contributors": [
-    {
-      "name": "Pooya Parsa <pooya@pi0.ir>",
-      "url": "https://github.com/pi0"
-    },
-    {
-      "name": "Herberts Cruz <herbertscruz@gmail.com>"
-    },
-    {
-      "name": "Tony Briet",
-      "url": "https://github.com/breakingrobot"
-    }
-  ],
   "main": "lib/module/index.js",
   "repository": "nuxt-community/auth-module",
   "publishConfig": {
